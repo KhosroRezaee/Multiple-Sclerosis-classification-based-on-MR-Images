@@ -17,4 +17,4 @@ You need to install matlab 2018a or higher.
 
 First: readingStep.m ----->> Reading images and feature extraction (Fractal and Pseudo Zernike moments descriptors).
 
-Second: classificationStep.m ---->> Optimized ELM which has been improved by Shufed frog-leaping algorithm.
+Second: classificationStep.m ---->> Optimized ELM which has been improved by Shuffled frog-leaping algorithm.
